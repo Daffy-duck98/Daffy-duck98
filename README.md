@@ -40,6 +40,6 @@ const russia = {
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kirill-bulatov98/" target="blank"><img align="center" src="https://www.svgrepo.com/show/35519/linkedin-logo.svg"matvei-korolev" height="30" width="40" /></a>
-  <a href="https://t.me/daffyduck78" target="blank"><img align="center" src="https://www.svgrepo.com/show/204357/telegram.svg" alt="tg" height="35" width="40" /></a>
     <a href="Daffy_duck98@yahoo.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/197971/yahoo.svg"tg" height="40" width="40" /></a>
+  <a href="https://t.me/daffyduck78" target="blank"><img align="center" src="https://www.svgrepo.com/show/204357/telegram.svg" alt="tg" height="35" width="40" /></a>
 </p>
