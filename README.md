@@ -55,8 +55,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
 
-<!--🤖ASCIIART / 🌐WEBSITES: https://asciiart.website/ & https://github.com/github/markup/issues/1440#issuecomment-803889380 -->
-
 <div align="center">
   
 ```diff
