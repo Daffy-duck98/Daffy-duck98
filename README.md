@@ -15,7 +15,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     <a href="https://www.linkedin.com/in/kirill-bulatov98/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"  alt="linkedin" height="30">
 
-<img src="https://komarev.com/ghpvc/?username=lorrik2&label=Profile%20views&color=0e75b6&style=flat" alt="Daffy-duck98" height="30" />
+<img src="https://komarev.com/ghpvc/?username=Daffy-duck98&label=Profile%20views&color=0e75b6&style=flat" alt="Daffy-duck98" height="30" />
 
  </div>
 
