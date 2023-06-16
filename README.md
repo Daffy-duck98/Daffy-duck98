@@ -1,13 +1,8 @@
 <div id="header" align="left">
-     <h1>   Hey 
+     <h1>   Hey, 
   <img src="https://i.imgur.com/DwsoBvD.gif" width = "92"/> 
+      I'm Kirill
   </h1>
-
-  <h4>I'm Kirill, a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.</h4>
-
-<h4>
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-</h4>
 
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 <p align="center">
