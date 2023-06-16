@@ -52,10 +52,6 @@ const russia = {
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 
-<!--🤔INTERESTTITLE-->
-<p align="center">
-<img src="https://i.imgur.com/ozEwbHs.gif">
-
 <!--🖼️🖼️INTERSTLOGOS-->
 <p align="center">
 <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" width="60" /> 
